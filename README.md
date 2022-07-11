@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marvin M. Pacis aka " @MarvedCodes "
 - 👀 I’m interested in Web, App and Game Dev
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me: marvedcodes@gmail.com | https://twitter.com/MarvedCodes | https://www.linkedin.com/in/marvedcodes/
 
