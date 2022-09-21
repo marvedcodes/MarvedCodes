@@ -1,4 +1,4 @@
-![Masterhead](https://user-images.githubusercontent.com/108392678/178480908-f35ca4f6-7f19-4e0c-86f6-6e02fec26246.png)
+![Masterhead](https://raw.githubusercontent.com/marvedcodes/marved-header/main/official_logo.png?token=GHSAT0AAAAAABXMT6EQCFKEOKJFQIZ6X76OYZLFT7Q)
 <h1 align="center">Hi 👋, I'm Marvin Pacis, "@marvedcodes"</h1>
 <h3 align="center">A Computer Enthusiast and Passionate Software Developer</h3>
 
