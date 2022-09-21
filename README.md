@@ -1,5 +1,5 @@
 ![Masterhead](https://user-images.githubusercontent.com/108392678/178480908-f35ca4f6-7f19-4e0c-86f6-6e02fec26246.png)
-<h1 align="center">Hi 👋, I'm Marvin Pacis aka "@MarvedCodes"</h1>
+<h1 align="center">Hi 👋, I'm Marvin Pacis, "@marvedcodes"</h1>
 <h3 align="center">A Computer Enthusiast and Passionate Software Developer</h3>
 
 - 🌱 I’m always rooting for **progress and innovation.**
